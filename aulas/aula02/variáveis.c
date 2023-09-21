@@ -29,6 +29,7 @@ float ponto_flutuante; //4 bytes 0.123456f
 
 double duplo //m8 bytes 0.1234567890123456
 
+  //constante em CAIXA ALTA
 long double duplo_longo;//16 bytes
 
 void vaazio //1 byte 

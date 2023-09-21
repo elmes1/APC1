@@ -4,8 +4,15 @@
 int main()
 
 {
-int base = 3;
-int altura = 7;
+
+float base = 0;
+float altura = 0;
+  
+printf("Digite a base do triangulo\n");
+scanf("%f", &base);
+printf("Digite a altura do triangulo\n");
+scanf("%f", &altura);
+  
   
 float area = base * altura/2.0f;
 
